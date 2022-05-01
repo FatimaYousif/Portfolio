@@ -285,6 +285,7 @@ header .navbar ul li a:hover{
     justify-content: center;
     flex-wrap: wrap;
     padding:2rem 0;
+    padding-top: 4rem;
 }
 
 .portfolio .box-container .box{

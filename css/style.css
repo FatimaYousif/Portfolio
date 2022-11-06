@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400&display=swap');
 
 :root{
     --yellow:#f9ca24;
@@ -255,7 +255,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box{
-    width:25rem;
+    width:50rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;

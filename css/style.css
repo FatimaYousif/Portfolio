@@ -50,11 +50,11 @@ section{
 }
 
 /* portfolio */
-/*  .portfolio{
-    min-height: 100vh;
+ .portfolio{
+    min-height: 150vh;
 }
 
-.experience{
+/* .experience{
     margin-bottom: 5%;
 }
 .education

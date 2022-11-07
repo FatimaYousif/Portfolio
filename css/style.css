@@ -45,12 +45,12 @@ body{
 }
 
 section{
-    min-height: 80vh;
+    min-height: 100vh;
     padding:1rem;
 }
 
 /* portfolio */
- .portfolio{
+/*  .portfolio{
     min-height: 100vh;
 }
 
@@ -60,7 +60,7 @@ section{
 .education
 {
     min-height: 70vh;
-}
+} */
 
 .btn{
     padding:.7rem 3rem;

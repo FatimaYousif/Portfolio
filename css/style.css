@@ -638,6 +638,7 @@ p a, #title{
     /* Add a dark-grey background on hover */
 }
 
+
 /* media query for portfolio section */
 @media screen and (max-width: 407px) {
     .portfolio .box-container .box {
